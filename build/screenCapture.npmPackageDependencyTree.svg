@@ -54,7 +54,7 @@
 <tspan x="10" y="826">  │   │   ├─┬ dashdash@1.14.1 </tspan>
 <tspan x="10" y="842">  │   │   │ └── assert-plus@1.0.0 </tspan>
 <tspan x="10" y="858">  │   │   ├── ecc-jsbn@0.1.1 </tspan>
-<tspan x="10" y="874">  │   │   ├─┬ getpass@0.1.6 </tspan>
+<tspan x="10" y="874">  │   │   ├─┬ getpass@0.1.7 </tspan>
 <tspan x="10" y="890">  │   │   │ └── assert-plus@1.0.0 </tspan>
 <tspan x="10" y="906">  │   │   ├── jodid25519@1.0.2 </tspan>
 <tspan x="10" y="922">  │   │   ├── jsbn@0.1.1 </tspan>
@@ -109,9 +109,9 @@
 <tspan x="10" y="1706">  │ ├── encodeurl@1.0.1 </tspan>
 <tspan x="10" y="1722">  │ ├── escape-html@1.0.3 </tspan>
 <tspan x="10" y="1738">  │ ├── etag@1.8.0 </tspan>
-<tspan x="10" y="1754">  │ ├─┬ finalhandler@1.0.1 </tspan>
-<tspan x="10" y="1770">  │ │ └─┬ debug@2.6.3 </tspan>
-<tspan x="10" y="1786">  │ │   └── ms@0.7.2 </tspan>
+<tspan x="10" y="1754">  │ ├─┬ finalhandler@1.0.2 </tspan>
+<tspan x="10" y="1770">  │ │ └─┬ debug@2.6.4 </tspan>
+<tspan x="10" y="1786">  │ │   └── ms@0.7.3 </tspan>
 <tspan x="10" y="1802">  │ ├── fresh@0.5.0 </tspan>
 <tspan x="10" y="1818">  │ ├── merge-descriptors@1.0.1 </tspan>
 <tspan x="10" y="1834">  │ ├── methods@1.1.2 </tspan>
@@ -164,7 +164,7 @@
 <tspan x="10" y="2586">  │ │ │   │ └── is-posix-bracket@0.1.1 </tspan>
 <tspan x="10" y="2602">  │ │ │   ├── extglob@0.3.2 </tspan>
 <tspan x="10" y="2618">  │ │ │   ├── filename-regex@2.0.0 </tspan>
-<tspan x="10" y="2634">  │ │ │   ├─┬ kind-of@3.1.0 </tspan>
+<tspan x="10" y="2634">  │ │ │   ├─┬ kind-of@3.2.0 </tspan>
 <tspan x="10" y="2650">  │ │ │   │ └── is-buffer@1.1.5 </tspan>
 <tspan x="10" y="2666">  │ │ │   ├─┬ normalize-path@2.1.1 </tspan>
 <tspan x="10" y="2682">  │ │ │   │ └── remove-trailing-separator@1.0.1 </tspan>
@@ -232,7 +232,7 @@
 <tspan x="10" y="3674">  │   │ ├── os-tmpdir@1.0.2 </tspan>
 <tspan x="10" y="3690">  │   │ ├── osenv@0.1.4 </tspan>
 <tspan x="10" y="3706">  │   │ ├── uuid@2.0.3 </tspan>
-<tspan x="10" y="3722">  │   │ └─┬ write-file-atomic@1.3.1 </tspan>
+<tspan x="10" y="3722">  │   │ └─┬ write-file-atomic@1.3.3 </tspan>
 <tspan x="10" y="3738">  │   │   ├── imurmurhash@0.1.4 </tspan>
 <tspan x="10" y="3754">  │   │   └── slide@1.1.6 </tspan>
 <tspan x="10" y="3770">  │   ├── is-npm@1.0.0 </tspan>
@@ -252,7 +252,7 @@
 <tspan x="10" y="3994">  │   │   │ ├── unzip-response@1.0.2 </tspan>
 <tspan x="10" y="4010">  │   │   │ └─┬ url-parse-lax@1.0.0 </tspan>
 <tspan x="10" y="4026">  │   │   │   └── prepend-http@1.0.4 </tspan>
-<tspan x="10" y="4042">  │   │   ├─┬ registry-auth-token@3.1.2 </tspan>
+<tspan x="10" y="4042">  │   │   ├─┬ registry-auth-token@3.3.0 </tspan>
 <tspan x="10" y="4058">  │   │   │ └─┬ rc@1.2.1 </tspan>
 <tspan x="10" y="4074">  │   │   │   ├── deep-extend@0.4.1 </tspan>
 <tspan x="10" y="4090">  │   │   │   ├── ini@1.3.4 </tspan>
@@ -610,7 +610,7 @@
 <tspan x="10" y="9722">    │   │ ├── pify@2.3.0 </tspan>
 <tspan x="10" y="9738">    │   │ └─┬ strip-bom@2.0.0 </tspan>
 <tspan x="10" y="9754">    │   │   └── is-utf8@0.2.1 </tspan>
-<tspan x="10" y="9770">    │   ├─┬ normalize-package-data@2.3.6 </tspan>
+<tspan x="10" y="9770">    │   ├─┬ normalize-package-data@2.3.8 </tspan>
 <tspan x="10" y="9786">    │   │ ├── hosted-git-info@2.4.2 </tspan>
 <tspan x="10" y="9802">    │   │ ├─┬ is-builtin-module@1.0.0 </tspan>
 <tspan x="10" y="9818">    │   │ │ └── builtin-modules@1.1.1 </tspan>
