@@ -1,6 +1,6 @@
 # npmtest-atmo
 
-#### test coverage for  [atmo (v0.14.2)](https://github.com/Raathigesh/Atmo)  [![npm package](https://img.shields.io/npm/v/npmtest-atmo.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-atmo) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-atmo.svg)](https://travis-ci.org/npmtest/node-npmtest-atmo)
+#### basic test coverage for  [atmo (v0.14.2)](https://github.com/Raathigesh/Atmo)  [![npm package](https://img.shields.io/npm/v/npmtest-atmo.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-atmo) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-atmo.svg)](https://travis-ci.org/npmtest/node-npmtest-atmo)
 
 #### Server side powertool for prototyping
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-atmo/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-atmo/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-atmo/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-atmo/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-atmo/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-atmo/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-atmo/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-atmo/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-atmo/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-atmo/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-atmo/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-atmo/build/coverage.html/index.html)
 
